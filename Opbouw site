@@ -1,0 +1,38 @@
+Opbouw website Unplugged Retreat
+
+
+Header
+	Logo
+	Navigation bar
+		FAQ
+		About
+	Headline
+	Image
+
+
+Main content
+	Newsletter signup
+		left: Headline text
+		left: Paragraph text
+		right: Headline text
+		right: e-mail input field
+		right: submit button
+	General information about Unplugged
+		Headline text
+		Background image
+		Icons
+		Text
+	Previous retreats
+		Headline text
+		Paragraph text with a title
+		Image
+
+
+Footer
+	Contact info
+		headline text
+		contact info
+	Social media
+		headline text
+		icons social media
+	Copyright
